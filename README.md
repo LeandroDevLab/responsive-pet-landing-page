@@ -1,5 +1,9 @@
 # Responsive Pet Landing Page
 
+<p align="center">
+  <img src="./assets/img/we-figma.png" alt="Imagem do figma para referência" width="80%">
+</p>
+
 Landing page responsiva desenvolvida com HTML e CSS puro, com foco em:
 
 - Estrutura semântica
